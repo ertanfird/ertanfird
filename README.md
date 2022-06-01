@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 
 ##My projects
 
-[![website]()]([](https://ertanfird.github.io/portfolio/))
+[![website]()]([https://ertanfird.github.io/portfolio/](https://ertanfird.github.io/portfolio/))
 
