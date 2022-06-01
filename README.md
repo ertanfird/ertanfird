@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 
 ##My projects
 
-[![website](./img/globe-light.svg)]([https://codestackr.com#gh-light-mode-only](https://ertanfird.github.io/portfolio/))
+[![website](./img/globe-light.svg)]([](https://ertanfird.github.io/portfolio/))
 
