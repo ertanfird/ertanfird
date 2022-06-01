@@ -11,5 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about my projects
 - 📫 How to reach me: ertanfird@gmail.com
 
-##My projects you can look on my [website][https://ertanfird.github.io/portfolio/]
+##My projects
+you can look on my [website][https://ertanfird.github.io/portfolio/]
 
