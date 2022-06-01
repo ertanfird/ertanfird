@@ -27,13 +27,26 @@
                                                        
                                                        
                                                        
+-------------------------------------------
+##Skils
 
-- 🔭 I’m currently working on deal planner "IRONMAN"
-- 🌱 I’m currently learning React / Redux
-- 💬 Ask me about my projects
-- 📫 How to reach me: ertanfird@gmail.com
+HTML
+CSS
+JS
+React/Redux
+Wordpress
+Figma
 
-##My projects
+-------------------------------------------
+##Statistics
 
-[![hello]()]([https://ertanfird.github.io/portfolio/](https://ertanfird.github.io/portfolio/))
+Wakatime
+
+
+-------------------------------------------
+##Projects
+
+#Mirror Space Network
+
+#Ironman
 
