@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React / Redux
 - 💬 Ask me about my projects
 - 📫 How to reach me: ertanfird@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+##My projects you can look on my [website][https://ertanfird.github.io/portfolio/]
 
