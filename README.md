@@ -28,7 +28,7 @@
                                                        
                                                        
 -------------------------------------------
-###Skils
+## Skils
 
 HTML
 
@@ -43,13 +43,13 @@ Wordpress
 Figma
 
 -------------------------------------------
-###Statistics
+## Statistics
 
 Wakatime
 
 
 -------------------------------------------
-###Projects
+## Projects
 
 #Mirror Space Network
 
