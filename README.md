@@ -1,10 +1,26 @@
 ### Hi there 👋
 
-<!--
-**ertanfird/ertanfird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+                                            
+                                            
+EEEEEEEEEEEEEEEEEEEEEEFFFFFFFFFFFFFFFFFFFFFF
+E::::::::::::::::::::EF::::::::::::::::::::F
+E::::::::::::::::::::EF::::::::::::::::::::F
+EE::::::EEEEEEEEE::::EFF::::::FFFFFFFFF::::F
+  E:::::E       EEEEEE  F:::::F       FFFFFF
+  E:::::E               F:::::F             
+  E::::::EEEEEEEEEE     F::::::FFFFFFFFFF   
+  E:::::::::::::::E     F:::::::::::::::F   
+  E:::::::::::::::E     F:::::::::::::::F   
+  E::::::EEEEEEEEEE     F::::::FFFFFFFFFF   
+  E:::::E               F:::::F             
+  E:::::E       EEEEEE  F:::::F             
+EE::::::EEEEEEEE:::::EFF:::::::FF           
+E::::::::::::::::::::EF::::::::FF           
+E::::::::::::::::::::EF::::::::FF           
+EEEEEEEEEEEEEEEEEEEEEEFFFFFFFFFFF           
+                                            
+                                            
+                                            
 
 - 🔭 I’m currently working on deal planner "IRONMAN"
 - 🌱 I’m currently learning React / Redux
